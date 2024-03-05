@@ -93,7 +93,10 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a href="{{ sidebar.pdf | prepend: 'assets/' | relative_url}}"
+         target="_blank"
+         rel="noopener noreferrer"
+         class="float-right">Resume PDF</a>
     </li>
     {% endif %}
 
