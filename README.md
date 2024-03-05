@@ -1,4 +1,4 @@
-Made use of `online-cv` Jekyll theme to build my resume
+Made use of `online-cv` Jekyll theme to build my resume. [click here](https://raviteja-reddy-guntaka.github.io/)
 
 ### Local machine
 
