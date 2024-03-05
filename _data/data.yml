@@ -119,7 +119,7 @@ experiences:
             - Data Warehouse Pipelines - Custom ETL Application
               - Spearheaded a 3-member cross-functional team in building ActiveMQ based events processing Microservice.
               - Implemented pessimistic locking for data consistency. Pipeline is capable of processing books with 2 million events.
-              - Reduced the application deployment time by 60% through containerization and github CI/CD pipeline.
+              - Modernized the deployment process by creating a sophisticated CI/CD pipeline utilizing GitHub Actions, reducing the deployment time by 60%.
             - Utilizing caching, asynchronous calls and batching, improved application performance by over 30%.
             - Exposed REST endpoints to pause or resume Spring Batch job thus reducing failure handling effort by 40%.
       - role: Solution Integration Consultant - I
@@ -127,6 +127,7 @@ experiences:
         company: FICO, Bangalore, India
         details: |
             - Analysed business requirements and enhanced RDBMS schema of Java web application by extending base product.
+            - Integrated third party SOAP APIs to fetch credit information making use of token based authentication.
             - Added an auditing capability leveraging the change event in jQuery for seamless tracking of data changes.
 
 #certifications:
