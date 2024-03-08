@@ -116,8 +116,8 @@ experiences:
         time: Apr 2019 - Mar 2021
         company: Arcesium, Hyderabad, India
         details: |
-            - Data Warehouse Pipelines - Custom ETL Application
-              - Spearheaded a 3-member cross-functional team in building ActiveMQ based events processing Microservice.
+            - Data Warehouse Pipelines - (Custom ETL Application for data warehousing)
+              - Spearheaded a 3-member cross-functional team overseeing daily scrum meetings and progress tracking in building ActiveMQ based events processing microservice with high reliability and scalability.
               - Implemented pessimistic locking for data consistency. Pipeline is capable of processing books with 2 million events.
               - Modernized the deployment process by creating a sophisticated CI/CD pipeline utilizing GitHub Actions, reducing the deployment time by 60%.
             - Utilizing caching, asynchronous calls and batching, improved application performance by over 30%.
